@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"AutoDocstring",
+		"AutoWrap",
+		"ayu",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Colorsublime",
+		"DA UI",
+		"DocBlockr_Python",
+		"File Navigator",
+		"GitGutter",
+		"Github Tools",
+		"Jedi - Python autocompletion",
+		"LaTeX Snippets",
+		"LaTeX-cwl",
+		"LaTeXTools",
+		"LaTeXYZ",
+		"LSP",
+		"Origami",
+		"Package Control",
+		"PowerShell",
+		"ProjectManager",
+		"Python 3",
+		"Side-by-Side Settings",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-flake8",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - One Dark",
+		"Theme - Solarized Flat",
+		"Theme - Spacegray",
+		"WordCount",
+		"Wrap Plus"
+	]
+}

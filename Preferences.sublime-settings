@@ -1,0 +1,62 @@
+{
+	"WrapPlus.break_on_hyphens": false,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		}
+	],
+	"auto_wrap": false,
+	"auto_wrap_width": 0,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Theme - Solarized Flat/Solarized Flat Light.tmTheme",
+	"draw_indent_guides": false,
+	"draw_white_space": "none",
+	"font_face": "Fira Code",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"AutoDocstring",
+		"AutoWrap",
+		"Cython",
+		"Jedi - Python autocompletion",
+		"LaTeXing",
+		"LSP",
+		"SublimeCodeIntel",
+		"SublimeLinter-flake8",
+		"SublimeREPL",
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
+	"rulers":
+	[
+		99
+	],
+	"skin": "DA UI/Elegant",
+	"spacegray_fileicons": true,
+	"spacegray_tabs_font_large": true,
+	"spacegray_tabs_xlarge": true,
+	"theme": "DA.sublime-theme",
+	"theme_accent_green": true,
+	"theme_bar": true,
+	"theme_bar_logo_atomized": true,
+	"theme_icons_atomized": true,
+	"theme_sidebar_folder_atomized": true,
+	"theme_tab_selected_underlined": true,
+	"theme_tab_size_lg": true,
+	"trim_trailing_white_space_on_save": true,
+	"ui_scale": 1.25,
+	"wrap_width": 99
+}

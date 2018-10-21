@@ -1,0 +1,4 @@
+{
+    "shell_cmd": "latexmk -pdf \"$file\" && latexmk -c",
+    "selector": "text.tex.latex"
+}
