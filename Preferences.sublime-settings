@@ -14,7 +14,7 @@
 	"auto_wrap": false,
 	"auto_wrap_width": 0,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - Solarized Flat/Solarized Flat Light.tmTheme",
+	"color_scheme": "Packages/Theme - Solarized Flat/Solarized Flat Dark.tmTheme",
 	"draw_indent_guides": false,
 	"draw_white_space": "none",
 	"font_face": "Fira Code",
@@ -57,6 +57,6 @@
 	"theme_tab_selected_underlined": true,
 	"theme_tab_size_lg": true,
 	"trim_trailing_white_space_on_save": true,
-	"ui_scale": 1.25,
+	"ui_scale": 1.0,
 	"wrap_width": 99
 }
