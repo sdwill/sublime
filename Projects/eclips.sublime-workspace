@@ -116,10 +116,6 @@
 		"selected_items":
 		[
 			[
-				"add project",
-				"Project Manager: Add New Project"
-			],
-			[
 				"project manager",
 				"Project Manager: Open Project"
 			],
@@ -578,7 +574,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Scott/Google Drive/Research/repos/poppy"
+		"/C/Users/Scott/Google Drive/Research/repos/eclips"
 	],
 	"file_history":
 	[
@@ -789,7 +785,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "poppy.sublime-project",
+	"project": "eclips.sublime-project",
 	"replace":
 	{
 		"height": 76.0
