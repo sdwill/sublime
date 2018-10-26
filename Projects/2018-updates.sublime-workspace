@@ -1,0 +1,1341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"perfec",
+				"perfect_conjugates"
+			],
+			[
+				"num",
+				"num_wavelengths\tstatement"
+			],
+			[
+				"py",
+				"pyplot\tmodule"
+			],
+			[
+				"unwr",
+				"unwrapped_phase\tstatement"
+			],
+			[
+				"show",
+				"show_jones_pupils\tfunction"
+			],
+			[
+				"detec",
+				"detector_fov_lamD\tparam"
+			],
+			[
+				"dete",
+				"detector_fov\tstatement"
+			],
+			[
+				"ecl",
+				"eclips_20170828_simple\tstatement"
+			],
+			[
+				"ecli",
+				"eclips_20180119_simple\tstatement"
+			],
+			[
+				"radii",
+				"radii_0518v3\tstatement"
+			],
+			[
+				"contr",
+				"contrast_targets\tstatement"
+			],
+			[
+				"aber",
+				"aberration_opd"
+			],
+			[
+				"aberr",
+				"aberration_opd\tstatement"
+			],
+			[
+				"popp",
+				"poppy_core"
+			],
+			[
+				"pop",
+				"POPPY"
+			],
+			[
+				"show_",
+				"show_psf_with_profile\tfunction"
+			],
+			[
+				"comp",
+				"compute_single_psf\tfunction"
+			],
+			[
+				"pl",
+				"PlaneType\tclass"
+			],
+			[
+				"soli",
+				"solid_underline"
+			],
+			[
+				"squi",
+				"squiggly_underline"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"include",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
+				"usepack",
+				"\\usepackage{package}                              \tlatex-document"
+			],
+			[
+				"usepakc",
+				"\\usepackage{package}                              \tlatex-document"
+			],
+			[
+				"usep",
+				"\\usepackage{package}                              \tlatex-document"
+			],
+			[
+				"usepackage",
+				"\\usepackage[options]{package}                     \tlatex-document"
+			],
+			[
+				"sec",
+				"\\section{title}                                   \tlatex-document"
+			],
+			[
+				"i",
+				"\\input{file}                                      \tlatex-document"
+			],
+			[
+				"til",
+				"\\tilde{a}                                         \tlatex-mathsymbols"
+			],
+			[
+				"inclu",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
+				"subsubsec",
+				"\\subsubsection{title}                             \tlatex-document"
+			],
+			[
+				"Pdf",
+				"PdfFileWriter"
+			],
+			[
+				"prime",
+				"prime_factorization"
+			],
+			[
+				"l",
+				"largest_divisible_power"
+			],
+			[
+				"large",
+				"largest_power"
+			],
+			[
+				"nex",
+				"next_prime\tstatement"
+			],
+			[
+				"la",
+				"largest"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"path",
+				"path_to_output"
+			],
+			[
+				"ou",
+				"output_name"
+			],
+			[
+				"sour",
+				"source_name"
+			],
+			[
+				"estiat",
+				"estimate_displacement"
+			],
+			[
+				"in",
+				"integers"
+			],
+			[
+				"pri",
+				"primes"
+			],
+			[
+				"ini",
+				"initialize_grids"
+			],
+			[
+				"init",
+				"initialize_magnetic_field"
+			],
+			[
+				"mik",
+				"miktex"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/sdwil/Google Drive/Research/updates/2018/18-10-26/will_fienup_18-10-26.tex",
+			"settings":
+			{
+				"buffer_size": 9652,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"add new ",
+				"Project Manager: Add New Project"
+			],
+			[
+				"remove bra",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"brackets remo",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove b",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"toggle mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"bold",
+				"Snippet: Boldface text"
+			],
+			[
+				"remove ",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"system ch",
+				"LaTeXTools: Check system"
+			],
+			[
+				"side-",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"build trad",
+				"Build With: LaTeX - Traditional"
+			],
+			[
+				"open file",
+				"File Navigator: Open"
+			],
+			[
+				"builder",
+				"Build With: LaTeX - Traditional"
+			],
+			[
+				"side-by",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"basic",
+				"Build With: LaTeX - Basic Builder - PdfLaTeX"
+			],
+			[
+				"err",
+				"Anaconda: Show error list"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new folder",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"open in new",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"rmeove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"reset",
+				"BracketHighlighter: Tag Settings"
+			],
+			[
+				"project",
+				"Project Manager: Open Project"
+			],
+			[
+				"anaconda ",
+				"Anaconda: Display object docs"
+			],
+			[
+				"anaconda doc",
+				"Anaconda: Display object docs"
+			],
+			[
+				"git",
+				"Preferences: GitGutter Popup Stylesheet"
+			],
+			[
+				"side",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"da",
+				"DA UI: Select Skin"
+			],
+			[
+				"remoe",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"kite",
+				"Kite: Package Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"error",
+				"Anaconda: Show error list"
+			],
+			[
+				"new project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"open project",
+				"Project Manager: Open Project"
+			],
+			[
+				"project mana",
+				"Project Manager: Add New Project"
+			],
+			[
+				"mcca",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"go to def",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"sync se",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"sync settings",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"erro",
+				"Anaconda: Show error list"
+			],
+			[
+				"sublimerepl",
+				"SublimeREPL: Python"
+			],
+			[
+				"sublimerepl matlab",
+				"SublimeREPL: Matlab"
+			],
+			[
+				"sublimerepl ip",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"sublimerepl power",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"sublim",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"select color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"anaconda error",
+				"Anaconda: Show error list"
+			],
+			[
+				"settings ",
+				"Preferences: Settings"
+			],
+			[
+				"isntal",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"project manager",
+				"Project Manager: Edit Project"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"lsit",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"doc",
+				"AutoDocstring: All"
+			],
+			[
+				"anaconda",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"d",
+				"DA UI: General Settings"
+			],
+			[
+				"da ui",
+				"DA UI: Select Skin"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"ui th",
+				"UI: Select Theme"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"dos",
+				"AutoDocstring: Current"
+			],
+			[
+				"show ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"build",
+				"Build With: LaTeX - PdfLaTeX"
+			],
+			[
+				"selec",
+				"UI: Select Theme"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"selec them",
+				"UI: Select Theme"
+			],
+			[
+				"latexmk",
+				"Build With: latexmk"
+			],
+			[
+				"basic ",
+				"Build With: LaTeX - Basic Builder - PdfLaTeX"
+			],
+			[
+				"build ",
+				"Build With: LaTeX - Script Builder"
+			],
+			[
+				"buil",
+				"Build With: LaTeX - Basic Builder - PdfLaTeX"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"enabe",
+				"Package Control: Enable Package"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"disba",
+				"Package Control: Disable Package"
+			],
+			[
+				"set ui th",
+				"UI: Select Theme"
+			],
+			[
+				"ui ",
+				"UI: Select Theme"
+			],
+			[
+				"colos",
+				"UI: Select Color Scheme"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"restart",
+				"LSP: Restart Servers"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"lsp settings",
+				"Preferences: LSP Settings"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"docstring",
+				"AutoDocstring: All"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"list o",
+				"Colorsublime: Browse Themes Online"
+			],
+			[
+				"delte ",
+				"File: Delete"
+			],
+			[
+				"gitgutter",
+				"Preferences: GitGutter Popup Stylesheet"
+			],
+			[
+				"autom",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"convert t",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"goto",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"termain",
+				"Terminal: Open in project folder"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bal"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"export",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"view",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"dias",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 548.0,
+		"history":
+		[
+			"view.encoding()",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/sdwil/Google Drive/Research/updates/2018"
+	],
+	"file_history":
+	[
+		"/C/localtexmf/tex/latex/misc/notestyle.sty",
+		"/C/localtexmf/tex/latex/misc/notepackages.sty",
+		"/C/Users/sdwil/Google Drive/Research/updates/2018/18-10-26/figures/broadband/300nm-5_wavelengths/stats.json",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/models/poppy/output/stats.json",
+		"/C/Users/sdwil/Google Drive/Research/updates/2018/18-10-17/will_fienup_18-10-17.tex",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/.gitignore",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/__init__.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/controllers.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/utils.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/controlled_aplc.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/controlled_aplc",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/aplc.py",
+		"/c/users/sdwil/google drive/research/repos/poppy/poppy/optics.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/eclips_0518v3.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/__init__.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/models/poppy/polarization.py",
+		"/c/users/sdwil/google drive/research/repos/poppy/poppy/poppy_core.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/eclips_0817.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/simple.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/utils.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/wavefront_controller.py",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/hicat.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/data/masks/HiCAT/HiCAT-Aper_F-N0486_Hex3-Ctr0972-Obs0195-SpX0017-Gap0004.fits",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/segmented_pupil.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/aplc.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/wavefront_controller.py",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/User/DocblockrPython.sublime-settings",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/C/Users/sdwil/Google Drive/Research/eclips.sublime-project",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/DocBlockr_Python/DocblockrPython.sublime-settings",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/base.py",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/C/Users/sdwil/.matplotlib/tex.cache/0a1fa62377c432e6f60e0f37c3140cbf.tex",
+		"/c/Users/sdwil/Google Drive/Research/updates/2018/18-10-11/will_fienup_18-10-11.tex",
+		"/C/Users/sdwil/Google Drive/Research/test_cython_repo/hello_world.pyx",
+		"/C/Users/sdwil/Google Drive/Research/papers/OSA latex template (1)/OSA-journal-template.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_shaded_geometry/algorithm_upper_left_next_row.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_shaded_geometry/algorithm_upper_left_1.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_shaded_geometry/quadrant_area.tex",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/yapp/dfts.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/wfscore/wfscore/tools.py",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_shaded_geometry/algorithm_upper_left_next_column.tex",
+		"/C/Users/sdwil/Desktop/readcube_export.bib",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_shaded_geometry/algorithm_combined.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_shaded_geometry/osajnl.cls",
+		"/C/Users/sdwil/Google Drive/Research/repos/poppy/docs/fresnel.rst",
+		"/C/Users/sdwil/Desktop/numpy_linkage.py",
+		"/C/Users/sdwil/Desktop/clone_decorator.py",
+		"/C/Users/sdwil/Google Drive/Research/notes/pueyo-stroke-minimization.tex",
+		"/C/Users/sdwil/Desktop/fix_sublime_preview.tex",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/sdwil/Google Drive/Research/run_jacobian.script.sh",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/yapp/internal/shapes/disk.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/yapp/shapes.py",
+		"/C/Users/sdwil/Google Drive/Research/reports/nasa_report_template/1_executivesummary.tex",
+		"/C/Users/sdwil/Desktop/strokemin.bib",
+		"/C/Users/sdwil/Downloads/citation-7440.bib",
+		"/C/Users/sdwil/Google Drive/Other/localtexmf_2017_12_13/tex/latex/misc/mathmacros.sty",
+		"/C/localtexmf/tex/latex/misc/mathmacros.sty",
+		"/C/Users/sdwil/Google Drive/Research/updates/2017/17-12-15/nasa_tcon_2.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_fio_abstract/abstract.tex",
+		"/C/Users/sdwil/Google Drive/Research/posters/grc_2018/poster.tex",
+		"/C/Users/sdwil/Google Drive/Research/reports/2018_nasa_annual_report/1_executivesummary.tex",
+		"/c/Users/sdwil/Google Drive/Research/project notes/LUVOIR project/ch_04_coronagraphs.tex",
+		"/c/Users/sdwil/Google Drive/Research/project notes/LUVOIR project/ch_01_introduction.tex",
+		"/C/Users/sdwil/Google Drive/Research/project notes/LUVOIR project/ch_03_dfts.tex",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/LaTeXYZ/README.md",
+		"/C/Users/sdwil/Google Drive/Research/reports/2018_nasa_annual_report/2018-report.sublime-project",
+		"/C/Users/sdwil/Google Drive/Research/reports/2018_nasa_annual_report/prefacepage.tex",
+		"/C/Users/sdwil/.jupyter/jupyter_notebook_config.json",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_nasa_annual_report/titlepage.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_nasa_annual_report/prefacepage.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_nasa_annual_report/1_executivesummary.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_nasa_annual_report/nasaprogressreport.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_nasa_annual_report/21/21_researchpaper.tex",
+		"/C/Users/sdwil/Google Drive/Notes/SCDA Telecon 2018-08-13.md",
+		"/C/Users/sdwil/Google Drive/Notes/SCDA Telecon 2018-08-13",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_nasa_annual_report/fullcollection.bib",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/yapp/tools/core.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/.git/config",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/.git/description",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/setup.py",
+		"/C/Users/sdwil/Documents/Research/eclips/eclips/models/poppy/basic.py",
+		"/C/Users/sdwil/.atom/packages/docblock-python/lib/docblock-python.js",
+		"/C/Users/sdwil/Documents/Research/eclips/eclips/parse_optical_design.py",
+		"/C/Users/sdwil/Documents/Research/hcipy/hcipy/internal/handlers/polarization.py",
+		"/C/Users/sdwil/Documents/Research/hcipy/hcipy/handlers.py",
+		"/C/Users/sdwil/Documents/Research/eclips/eclips/models/designs/eclips_0518v3.py",
+		"/C/Users/sdwil/Desktop/.bashrc",
+		"/C/Users/sdwil/Documents/Research/zimmerman_scda/scda/20170828/LUVOIR15m_narrow_discov_sensitivity.py",
+		"/C/Users/sdwil/Documents/Research/hcipy/hcipy/internal/handlers/broadpoints2s.py",
+		"/C/Users/sdwil/.bash_profile",
+		"/C/Users/sdwil/.condarc",
+		"/C/Users/sdwil/.bashrc",
+		"/C/Users/sdwil/.bash_history",
+		"/C/Users/sdwil/.gitconfig",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/User/LSP.sublime-settings",
+		"/C/Users/sdwil/.atom-backup/storage/application.json",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/LSP/LSP.sublime-settings",
+		"/C/Users/sdwil/Documents/Research/eclips/eclips/data/presciptions/ECLIPS-A_VISchannel_PrescriptionInfo_20180503_v3_noext.txt",
+		"/C/Users/sdwil/AppData/Local/Temp/Temp1_astropy-2.0.5.zip/astropy-2.0.5/astropy/io/fits/hdu/hdulist.py",
+		"/C/Users/sdwil/AppData/Local/Temp/Temp1_astropy-3.0.3.zip/astropy-3.0.3/astropy/io/fits/hdu/hdulist.py",
+		"/C/Users/sdwil/AppData/Local/Temp/Temp1_LUVOIR_Ap05_FPM350_OWA12_BW10_N256_share.zip/LUVOIR_Ap05_FPM350_OWA12_BW10_N256_share/LUVOIR_Ap05_FPM350_OWA12_BW10_N256_test.py",
+		"/C/Users/sdwil/Anaconda3/Lib/site-packages/poppy-0.7.0.dist-info/METADATA",
+		"/C/Users/sdwil/Documents/Research/poppy/setup.py",
+		"/C/Users/sdwil/Google Drive/Research/papers/fio_2018_abstract/abstract.tex",
+		"/C/Users/sdwil/Documents/Research/eclips/setup.py",
+		"/C/Users/sdwil/Documents/Research/jurling_po/alden/demos/demo1.py",
+		"/C/Users/sdwil/Anaconda3/Scripts/jupyter-labhub-script.py",
+		"/C/Users/sdwil/Documents/Research/corona/luvoir/models/aplc.py",
+		"/C/Users/sdwil/.jupyter/jupyter_notebook_config.py",
+		"/C/Users/sdwil/Google Drive/Research/posters/grc_2018/beamerposter.sty",
+		"/C/Users/sdwil/Google Drive/Research/posters/unnecessarily-complicated-research/sample.bib",
+		"/C/Users/sdwil/Google Drive/Research/papers/osa_conference_style_guide/OSAmeetings.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/fio_2018_abstract/abstract.log",
+		"/C/Users/sdwil/Google Drive/Research/papers/fio_2018_abstract/balasubramanian2016wfirst-afta.bib",
+		"/C/Users/sdwil/Google Drive/Research/papers/fio_2018_abstract/abstract.pdf",
+		"/C/Users/sdwil/Documents/Research/luvoir-exo/data/ECLIPS-A_VISchannel_PrescriptionInfo_20180427_v2.txt",
+		"/C/Users/sdwil/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/S0/3941/20180314_LUVOIR_TMA_15m_v16_ffTM_ape2[3943].seq",
+		"/C/Users/sdwil/Documents/Research/luvoir-exo/data/LUVOIR_Ap05_FPM350_OWA12_BW10_N256_share/LUVOIR_Ap05_FPM350_OWA12_BW10_N256_share/LUVOIR_Ap05_FPM350_OWA12_BW10_N256_test.py",
+		"/C/Users/sdwil/Documents/Research/luvoir-exo/data/LUVOIR_Ap05_FPM350_OWA12_BW10_N256_share/LUVOIR_Ap05_FPM350_OWA12_BW10_N256_share/scda.py",
+		"/C/Users/sdwil/Documents/Research/luvoir-exo/data/LUVOIR_Ap05_FPM350_OWA12_BW10_N256_share/LUVOIR_Ap05_FPM350_OWA12_BW10_N256_share/LS_half_luvoir2017novAp05cP02D88_clear_N0256.dat",
+		"/C/Users/sdwil/Documents/Research/luvoir-exo/data/LUVOIR-A Polarization Maps/Optical_Aperture5_TMA_1_20171129_v2_LiFOverAl_17_f24_w300/Optical_Aperture5_TMA_1_20171129_v2_LiFOverAl_17_f24_w300.seq",
+		"/C/Users/sdwil/Documents/Research/luvoir-exo/simulations/corona.log"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/sdwil/Google Drive/Research/updates/2018/18-10-26/will_fienup_18-10-26.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 434,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 71.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "2018-updates.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"10-26",
+				"18-10-26\\will_fienup_18-10-26.tex"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"utils",
+				"eclips\\internal\\utils.py"
+			],
+			[
+				"uti",
+				"eclips\\internal\\utils.py"
+			],
+			[
+				"controll",
+				"eclips\\internal\\wavefront_controller.py"
+			],
+			[
+				"compute",
+				"eclips\\models\\poppy\\compute_jacobian.py"
+			],
+			[
+				"aplc",
+				"eclips\\internal\\aplc.py"
+			],
+			[
+				"wave",
+				"eclips\\internal\\wavefront_controller.py"
+			],
+			[
+				"polar",
+				"eclips\\models\\poppy\\polarization.py"
+			],
+			[
+				"a",
+				"eclips\\internal\\aplc.py"
+			],
+			[
+				"polari",
+				"eclips\\models\\poppy\\polarization.py"
+			],
+			[
+				"ecl",
+				"eclips\\designs\\eclips_0518v3.py"
+			],
+			[
+				"simpe",
+				"eclips\\designs\\simple.py"
+			],
+			[
+				"designs",
+				"eclips\\designs\\__init__.py"
+			],
+			[
+				"cont",
+				"eclips\\controllers.py"
+			],
+			[
+				"__in",
+				"eclips\\internal\\__init__.py"
+			],
+			[
+				"__i",
+				"eclips\\designs\\__init__.py"
+			],
+			[
+				"models\\popp",
+				"eclips\\models\\poppy\\polarization.py"
+			],
+			[
+				"eclips",
+				"eclips\\designs\\eclips_0817.py"
+			],
+			[
+				"hicat.py",
+				"eclips\\designs\\hicat.py"
+			],
+			[
+				"hicat",
+				"eclips\\data\\masks\\HiCAT\\HiCAT-Aper_F-N0486_Hex3-Ctr0972-Obs0195-SpX0017-Gap0004.fits"
+			],
+			[
+				"pola",
+				"eclips\\models\\poppy\\polarization.py"
+			],
+			[
+				"base",
+				"eclips\\designs\\base.py"
+			],
+			[
+				"algorith_upper_left_ne",
+				"algorithm_upper_left_next_row.tex"
+			],
+			[
+				"algorith",
+				"algorithm_upper_left_next_column.tex"
+			],
+			[
+				"algo",
+				"algorithm_upper_left_1.tex"
+			],
+			[
+				".tex",
+				"quadrant_area.tex"
+			],
+			[
+				"sampl",
+				"sample.bib"
+			],
+			[
+				"osajn",
+				"osajnl.cls"
+			],
+			[
+				"quan",
+				"quadrant_area.tex"
+			],
+			[
+				"algorithm",
+				"algorithm_upper_left_1.tex"
+			],
+			[
+				"shade.tex",
+				"shaded-geometry.tex"
+			],
+			[
+				"disk",
+				"geoshade\\internal\\disk.py"
+			],
+			[
+				"control",
+				"eclips\\controllers.py"
+			],
+			[
+				"fresne",
+				"poppy\\fresnel.py"
+			],
+			[
+				"four_",
+				"eclips\\models\\poppy\\four_plane_model_run.py"
+			],
+			[
+				"pilot",
+				"yapp\\internal\\pilot.py"
+			],
+			[
+				"mono",
+				"yapp\\internal\\handlers\\monopoints2s.py"
+			],
+			[
+				"surfa",
+				"yapp\\internal\\handlers\\surface_to_surface.py"
+			],
+			[
+				"exec",
+				"1_executivesummary.tex"
+			],
+			[
+				"krist",
+				"krist_end_to_end.bib"
+			],
+			[
+				"unit",
+				"unit-cell-effects.tex"
+			],
+			[
+				"basic",
+				"eclips\\models\\poppy\\basic.py"
+			],
+			[
+				"bas",
+				"eclips\\models\\designs\\base.py"
+			],
+			[
+				"prop_stw",
+				"proper\\prop_stw.py"
+			],
+			[
+				"thre",
+				"python\\three.py"
+			],
+			[
+				"master",
+				"python_port\\master.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 202.0,
+		"last_filter": "make_f",
+		"selected_items":
+		[
+			[
+				"make_f",
+				"make_fresnel_system"
+			],
+			[
+				"make_fresne",
+				"make_fresnel_system"
+			],
+			[
+				"circ",
+				"CircularAperture"
+			],
+			[
+				"circular",
+				"CircularOcculter"
+			],
+			[
+				"free",
+				"FreeSpace"
+			]
+		],
+		"width": 562.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

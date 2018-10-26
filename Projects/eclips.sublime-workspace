@@ -1,0 +1,2349 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ampl",
+				"amplitude_formatters\tstatement"
+			],
+			[
+				"Str",
+				"FormatStrFormatter\tclass"
+			],
+			[
+				"form",
+				"formatter\tstatement"
+			],
+			[
+				"forma",
+				"formatter"
+			],
+			[
+				"lam",
+				"lambda_0"
+			],
+			[
+				"aplc",
+				"aplc_20180119_controller"
+			],
+			[
+				"apl",
+				"aplc_20180119\tinstance"
+			],
+			[
+				"la",
+				"luvoir_A\tstatement"
+			],
+			[
+				"luv",
+				"luvoir_A_pupil\tstatement"
+			],
+			[
+				"apc",
+				"aplc_20180119_simple\tstatement"
+			],
+			[
+				"geer",
+				"generate_jacobian_path\tfunction"
+			],
+			[
+				"gener",
+				"generate_jones_pupil_path\tfunction"
+			],
+			[
+				"num",
+				"num_actuators"
+			],
+			[
+				"wave",
+				"wavelength"
+			],
+			[
+				"fon",
+				"font_manager"
+			],
+			[
+				"opd",
+				"opd_300nm_jxx\tstatement"
+			],
+			[
+				"masked",
+				"masked_opd"
+			],
+			[
+				"get",
+				"_get_jones_amp_and_opd\tfunction"
+			],
+			[
+				"com",
+				"compute_jones_pupil_statistics\tfunction"
+			],
+			[
+				"jone",
+				"jones_components\tstatement"
+			],
+			[
+				"comp",
+				"component\tstatement"
+			],
+			[
+				"perfec",
+				"perfect_conjugates"
+			],
+			[
+				"py",
+				"pyplot\tmodule"
+			],
+			[
+				"unwr",
+				"unwrapped_phase\tstatement"
+			],
+			[
+				"show",
+				"show_jones_pupils\tfunction"
+			],
+			[
+				"detec",
+				"detector_fov_lamD\tparam"
+			],
+			[
+				"dete",
+				"detector_fov\tstatement"
+			],
+			[
+				"ecl",
+				"eclips_20170828_simple\tstatement"
+			],
+			[
+				"ecli",
+				"eclips_20180119_simple\tstatement"
+			],
+			[
+				"radii",
+				"radii_0518v3\tstatement"
+			],
+			[
+				"contr",
+				"contrast_targets\tstatement"
+			],
+			[
+				"aber",
+				"aberration_opd"
+			],
+			[
+				"aberr",
+				"aberration_opd\tstatement"
+			],
+			[
+				"popp",
+				"poppy_core"
+			],
+			[
+				"pop",
+				"POPPY"
+			],
+			[
+				"show_",
+				"show_psf_with_profile\tfunction"
+			],
+			[
+				"pl",
+				"PlaneType\tclass"
+			],
+			[
+				"soli",
+				"solid_underline"
+			],
+			[
+				"squi",
+				"squiggly_underline"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"include",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
+				"usepack",
+				"\\usepackage{package}                              \tlatex-document"
+			],
+			[
+				"usepakc",
+				"\\usepackage{package}                              \tlatex-document"
+			],
+			[
+				"usep",
+				"\\usepackage{package}                              \tlatex-document"
+			],
+			[
+				"usepackage",
+				"\\usepackage[options]{package}                     \tlatex-document"
+			],
+			[
+				"sec",
+				"\\section{title}                                   \tlatex-document"
+			],
+			[
+				"i",
+				"\\input{file}                                      \tlatex-document"
+			],
+			[
+				"til",
+				"\\tilde{a}                                         \tlatex-mathsymbols"
+			],
+			[
+				"inclu",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
+				"subsubsec",
+				"\\subsubsection{title}                             \tlatex-document"
+			],
+			[
+				"Pdf",
+				"PdfFileWriter"
+			],
+			[
+				"prime",
+				"prime_factorization"
+			],
+			[
+				"l",
+				"largest_divisible_power"
+			],
+			[
+				"large",
+				"largest_power"
+			],
+			[
+				"nex",
+				"next_prime\tstatement"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"path",
+				"path_to_output"
+			],
+			[
+				"ou",
+				"output_name"
+			],
+			[
+				"sour",
+				"source_name"
+			],
+			[
+				"estiat",
+				"estimate_displacement"
+			],
+			[
+				"in",
+				"integers"
+			],
+			[
+				"pri",
+				"primes"
+			],
+			[
+				"ini",
+				"initialize_grids"
+			],
+			[
+				"init",
+				"initialize_magnetic_field"
+			],
+			[
+				"mik",
+				"miktex"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/models/poppy/polarization.py",
+			"settings":
+			{
+				"buffer_size": 31319,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/controllers.py",
+			"settings":
+			{
+				"buffer_size": 15919,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/telescope.py",
+			"settings":
+			{
+				"buffer_size": 171,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/luvoir_a.py",
+			"settings":
+			{
+				"buffer_size": 1433,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/model_parameters.py",
+			"settings":
+			{
+				"buffer_size": 3562,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Anaconda Python Builder",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"enab",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"disa",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"err",
+				"Anaconda: Show error list"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"remove brac",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"error",
+				"Anaconda: Show error list"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"erro",
+				"Anaconda: Show error list"
+			],
+			[
+				"renmae",
+				"Rename File"
+			],
+			[
+				"convert to spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"side",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"new folder",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"open in new",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"rmeove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"reset",
+				"BracketHighlighter: Tag Settings"
+			],
+			[
+				"project",
+				"Project Manager: Open Project"
+			],
+			[
+				"anaconda ",
+				"Anaconda: Display object docs"
+			],
+			[
+				"anaconda doc",
+				"Anaconda: Display object docs"
+			],
+			[
+				"git",
+				"Preferences: GitGutter Popup Stylesheet"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"da",
+				"DA UI: Select Skin"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remoe",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"kite",
+				"Kite: Package Settings"
+			],
+			[
+				"side-",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"new project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"open project",
+				"Project Manager: Open Project"
+			],
+			[
+				"project mana",
+				"Project Manager: Add New Project"
+			],
+			[
+				"mcca",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"go to def",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"remove ",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"sync se",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"side-by",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"sync settings",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"sublimerepl",
+				"SublimeREPL: Python"
+			],
+			[
+				"sublimerepl matlab",
+				"SublimeREPL: Matlab"
+			],
+			[
+				"sublimerepl ip",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"sublimerepl power",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"sublim",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"select color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"anaconda error",
+				"Anaconda: Show error list"
+			],
+			[
+				"settings ",
+				"Preferences: Settings"
+			],
+			[
+				"isntal",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"project manager",
+				"Project Manager: Edit Project"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"lsit",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"doc",
+				"AutoDocstring: All"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"anaconda",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"d",
+				"DA UI: General Settings"
+			],
+			[
+				"da ui",
+				"DA UI: Select Skin"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"ui th",
+				"UI: Select Theme"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"dos",
+				"AutoDocstring: Current"
+			],
+			[
+				"show ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"build",
+				"Build With: LaTeX - PdfLaTeX"
+			],
+			[
+				"selec",
+				"UI: Select Theme"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"selec them",
+				"UI: Select Theme"
+			],
+			[
+				"latexmk",
+				"Build With: latexmk"
+			],
+			[
+				"basic ",
+				"Build With: LaTeX - Basic Builder - PdfLaTeX"
+			],
+			[
+				"build ",
+				"Build With: LaTeX - Script Builder"
+			],
+			[
+				"buil",
+				"Build With: LaTeX - Basic Builder - PdfLaTeX"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"enabe",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"disba",
+				"Package Control: Disable Package"
+			],
+			[
+				"set ui th",
+				"UI: Select Theme"
+			],
+			[
+				"ui ",
+				"UI: Select Theme"
+			],
+			[
+				"colos",
+				"UI: Select Color Scheme"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"restart",
+				"LSP: Restart Servers"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"lsp settings",
+				"Preferences: LSP Settings"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"docstring",
+				"AutoDocstring: All"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"list o",
+				"Colorsublime: Browse Themes Online"
+			],
+			[
+				"delte ",
+				"File: Delete"
+			],
+			[
+				"gitgutter",
+				"Preferences: GitGutter Popup Stylesheet"
+			],
+			[
+				"autom",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"convert t",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"goto",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"termain",
+				"Terminal: Open in project folder"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bal"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"export",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"view",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"dias",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"insall",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"font",
+				"Set Syntax: Font"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 548.0,
+		"history":
+		[
+			"view.encoding()",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/models",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/models/poppy",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/models/poppy/output"
+	],
+	"file_history":
+	[
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/models/poppy/compute_jacobian.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/config.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/aplc_20180119.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/model_parameters.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/__init__.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/telescope.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/simple.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/__init__.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/abstract_6F.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/models/poppy/compare_jones_pupils.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/aplc.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/luvoir_cgi.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/aplc_20170828",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/luvoir_A_aplc_20180119.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/wavefront_controller.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/utils.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/.gitignore",
+		"/C/Users/sdwil/Google Drive/Research/updates/2018/18-10-26/figures/broadband/500nm-5_wavelengths/stats.json",
+		"/c/users/sdwil/google drive/research/repos/yapp/yapp/tools/core.py",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/sdwil/.matplotlib/fontList.json",
+		"/C/Users/sdwil/Google Drive/Research/updates/2018/18-10-26/figures/broadband/300nm-5_wavelengths/stats.json",
+		"/C/Users/sdwil/Google Drive/Research/updates/2018/18-10-26/will_fienup_18-10-26.tex",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/models/poppy/output/stats.json",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/models/poppy/utils.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/models/poppy/output/stats.yml",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/controllers.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/controlled_aplc.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/controlled_aplc",
+		"/c/users/sdwil/google drive/research/repos/poppy/poppy/optics.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/eclips_0518v3.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/models/poppy/polarization.py",
+		"/c/users/sdwil/google drive/research/repos/poppy/poppy/poppy_core.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/eclips_0817.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/utils.py",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/hicat.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/data/masks/HiCAT/HiCAT-Aper_F-N0486_Hex3-Ctr0972-Obs0195-SpX0017-Gap0004.fits",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/segmented_pupil.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/aplc.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/wavefront_controller.py",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/User/DocblockrPython.sublime-settings",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/C/Users/sdwil/Google Drive/Research/eclips.sublime-project",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/DocBlockr_Python/DocblockrPython.sublime-settings",
+		"/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/base.py",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/C/Users/sdwil/.matplotlib/tex.cache/0a1fa62377c432e6f60e0f37c3140cbf.tex",
+		"/c/Users/sdwil/Google Drive/Research/updates/2018/18-10-11/will_fienup_18-10-11.tex",
+		"/C/Users/sdwil/Google Drive/Research/test_cython_repo/hello_world.pyx",
+		"/C/Users/sdwil/Google Drive/Research/papers/OSA latex template (1)/OSA-journal-template.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_shaded_geometry/algorithm_upper_left_next_row.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_shaded_geometry/algorithm_upper_left_1.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_shaded_geometry/quadrant_area.tex",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/yapp/dfts.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/wfscore/wfscore/tools.py",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_shaded_geometry/algorithm_upper_left_next_column.tex",
+		"/C/Users/sdwil/Desktop/readcube_export.bib",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_shaded_geometry/algorithm_combined.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_shaded_geometry/osajnl.cls",
+		"/C/Users/sdwil/Google Drive/Research/repos/poppy/docs/fresnel.rst",
+		"/C/Users/sdwil/Desktop/numpy_linkage.py",
+		"/C/Users/sdwil/Desktop/clone_decorator.py",
+		"/C/Users/sdwil/Google Drive/Research/notes/pueyo-stroke-minimization.tex",
+		"/C/Users/sdwil/Desktop/fix_sublime_preview.tex",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/sdwil/Google Drive/Research/run_jacobian.script.sh",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/yapp/internal/shapes/disk.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/yapp/shapes.py",
+		"/C/Users/sdwil/Google Drive/Research/reports/nasa_report_template/1_executivesummary.tex",
+		"/C/Users/sdwil/Desktop/strokemin.bib",
+		"/C/Users/sdwil/Downloads/citation-7440.bib",
+		"/C/Users/sdwil/Google Drive/Other/localtexmf_2017_12_13/tex/latex/misc/mathmacros.sty",
+		"/C/localtexmf/tex/latex/misc/mathmacros.sty",
+		"/C/Users/sdwil/Google Drive/Research/updates/2017/17-12-15/nasa_tcon_2.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_fio_abstract/abstract.tex",
+		"/C/Users/sdwil/Google Drive/Research/posters/grc_2018/poster.tex",
+		"/C/Users/sdwil/Google Drive/Research/reports/2018_nasa_annual_report/1_executivesummary.tex",
+		"/c/Users/sdwil/Google Drive/Research/project notes/LUVOIR project/ch_04_coronagraphs.tex",
+		"/c/Users/sdwil/Google Drive/Research/project notes/LUVOIR project/ch_01_introduction.tex",
+		"/C/Users/sdwil/Google Drive/Research/project notes/LUVOIR project/ch_03_dfts.tex",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/LaTeXYZ/README.md",
+		"/C/Users/sdwil/Google Drive/Research/reports/2018_nasa_annual_report/2018-report.sublime-project",
+		"/C/Users/sdwil/Google Drive/Research/reports/2018_nasa_annual_report/prefacepage.tex",
+		"/C/Users/sdwil/.jupyter/jupyter_notebook_config.json",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_nasa_annual_report/titlepage.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_nasa_annual_report/prefacepage.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_nasa_annual_report/1_executivesummary.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_nasa_annual_report/nasaprogressreport.tex",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_nasa_annual_report/21/21_researchpaper.tex",
+		"/C/Users/sdwil/Google Drive/Notes/SCDA Telecon 2018-08-13.md",
+		"/C/Users/sdwil/Google Drive/Notes/SCDA Telecon 2018-08-13",
+		"/C/Users/sdwil/Google Drive/Research/papers/2018_nasa_annual_report/fullcollection.bib",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/yapp/tools/core.py",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/.git/config",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/.git/description",
+		"/C/Users/sdwil/Google Drive/Research/repos/yapp/setup.py",
+		"/C/Users/sdwil/Documents/Research/eclips/eclips/models/poppy/basic.py",
+		"/C/Users/sdwil/.atom/packages/docblock-python/lib/docblock-python.js",
+		"/C/Users/sdwil/Documents/Research/eclips/eclips/parse_optical_design.py",
+		"/C/Users/sdwil/Documents/Research/hcipy/hcipy/internal/handlers/polarization.py",
+		"/C/Users/sdwil/Documents/Research/hcipy/hcipy/handlers.py",
+		"/C/Users/sdwil/Documents/Research/eclips/eclips/models/designs/eclips_0518v3.py",
+		"/C/Users/sdwil/Desktop/.bashrc",
+		"/C/Users/sdwil/Documents/Research/zimmerman_scda/scda/20170828/LUVOIR15m_narrow_discov_sensitivity.py",
+		"/C/Users/sdwil/Documents/Research/hcipy/hcipy/internal/handlers/broadpoints2s.py",
+		"/C/Users/sdwil/.bash_profile",
+		"/C/Users/sdwil/.condarc",
+		"/C/Users/sdwil/.bashrc",
+		"/C/Users/sdwil/.bash_history",
+		"/C/Users/sdwil/.gitconfig",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/User/LSP.sublime-settings",
+		"/C/Users/sdwil/.atom-backup/storage/application.json",
+		"/C/Users/sdwil/AppData/Roaming/Sublime Text 3/Packages/LSP/LSP.sublime-settings",
+		"/C/Users/sdwil/Documents/Research/eclips/eclips/data/presciptions/ECLIPS-A_VISchannel_PrescriptionInfo_20180503_v3_noext.txt",
+		"/C/Users/sdwil/AppData/Local/Temp/Temp1_astropy-2.0.5.zip/astropy-2.0.5/astropy/io/fits/hdu/hdulist.py",
+		"/C/Users/sdwil/AppData/Local/Temp/Temp1_astropy-3.0.3.zip/astropy-3.0.3/astropy/io/fits/hdu/hdulist.py",
+		"/C/Users/sdwil/AppData/Local/Temp/Temp1_LUVOIR_Ap05_FPM350_OWA12_BW10_N256_share.zip/LUVOIR_Ap05_FPM350_OWA12_BW10_N256_share/LUVOIR_Ap05_FPM350_OWA12_BW10_N256_test.py",
+		"/C/Users/sdwil/Anaconda3/Lib/site-packages/poppy-0.7.0.dist-info/METADATA",
+		"/C/Users/sdwil/Documents/Research/poppy/setup.py",
+		"/C/Users/sdwil/Google Drive/Research/papers/fio_2018_abstract/abstract.tex",
+		"/C/Users/sdwil/Documents/Research/eclips/setup.py",
+		"/C/Users/sdwil/Documents/Research/jurling_po/alden/demos/demo1.py",
+		"/C/Users/sdwil/Anaconda3/Scripts/jupyter-labhub-script.py",
+		"/C/Users/sdwil/Documents/Research/corona/luvoir/models/aplc.py"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"log",
+			"aplc",
+			"design",
+			"eclips",
+			"eclips_0817",
+			"show_",
+			"deepcop",
+			"print",
+			"jones",
+			"cmu serif",
+			"cmu",
+			"serif",
+			"cmu",
+			"get_jo",
+			"get_jon",
+			"dump",
+			"lambda/D",
+			"zip",
+			"utils",
+			"add_detector",
+			"utils",
+			"compute_I00_fresnel",
+			"theme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"coronagraph",
+			"aplc",
+			"aplc_20170828",
+			"mutils"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/models/poppy/polarization.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27510,
+								27510
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+							],
+							"SL.22.region_keys":
+							[
+								"SL.annotations.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.annotations.Highlights.|a3c87f85e4782d643caa1067b371eee2fa0f934f44ffb8a2b6ceec70c3651cd6|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": "\\",
+									"selector": "text.tex.latex"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"history_list_is_closing": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 15603.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/controllers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11257,
+								11257
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										11263,
+										11264
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										11246,
+										11247
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2277.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/telescope.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/designs/luvoir_a.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": "\\",
+									"selector": "text.tex.latex"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										133,
+										134
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										122,
+										123
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/C/Users/sdwil/Google Drive/Research/repos/eclips/eclips/internal/model_parameters.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3397,
+								3397
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": "\\",
+									"selector": "text.tex.latex"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3115,
+										3116
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3063,
+										3064
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.SublimeLinter":
+	{
+		"height": 126.0
+	},
+	"output.exec":
+	{
+		"height": 371.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "eclips.sublime-project",
+	"replace":
+	{
+		"height": 122.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"control",
+				"eclips\\controllers.py"
+			],
+			[
+				"aplc",
+				"eclips\\designs\\aplc_20180119.py"
+			],
+			[
+				"model_para",
+				"eclips\\internal\\model_parameters.py"
+			],
+			[
+				"tele",
+				"eclips\\internal\\telescope.py"
+			],
+			[
+				"te",
+				"eclips\\internal\\telescope.py"
+			],
+			[
+				"tle",
+				"eclips\\internal\\telescope.py"
+			],
+			[
+				"designs",
+				"eclips\\designs\\__init__.py"
+			],
+			[
+				"simp",
+				"eclips\\designs\\simple.py"
+			],
+			[
+				"lu",
+				"eclips\\designs\\luvoir_A_aplc_20180119.py"
+			],
+			[
+				"ecl",
+				"eclips\\designs\\eclips_0817.py"
+			],
+			[
+				"com",
+				"eclips\\models\\poppy\\compute_jacobian.py"
+			],
+			[
+				"jones",
+				"eclips\\models\\poppy\\compare_jones_pupils.py"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"utils",
+				"eclips\\internal\\utils.py"
+			],
+			[
+				"uti",
+				"eclips\\internal\\utils.py"
+			],
+			[
+				"controll",
+				"eclips\\internal\\wavefront_controller.py"
+			],
+			[
+				"compute",
+				"eclips\\models\\poppy\\compute_jacobian.py"
+			],
+			[
+				"wave",
+				"eclips\\internal\\wavefront_controller.py"
+			],
+			[
+				"polar",
+				"eclips\\models\\poppy\\polarization.py"
+			],
+			[
+				"a",
+				"eclips\\internal\\aplc.py"
+			],
+			[
+				"polari",
+				"eclips\\models\\poppy\\polarization.py"
+			],
+			[
+				"simpe",
+				"eclips\\designs\\simple.py"
+			],
+			[
+				"cont",
+				"eclips\\controllers.py"
+			],
+			[
+				"__in",
+				"eclips\\internal\\__init__.py"
+			],
+			[
+				"__i",
+				"eclips\\designs\\__init__.py"
+			],
+			[
+				"models\\popp",
+				"eclips\\models\\poppy\\polarization.py"
+			],
+			[
+				"eclips",
+				"eclips\\designs\\eclips_0817.py"
+			],
+			[
+				"hicat.py",
+				"eclips\\designs\\hicat.py"
+			],
+			[
+				"hicat",
+				"eclips\\data\\masks\\HiCAT\\HiCAT-Aper_F-N0486_Hex3-Ctr0972-Obs0195-SpX0017-Gap0004.fits"
+			],
+			[
+				"pola",
+				"eclips\\models\\poppy\\polarization.py"
+			],
+			[
+				"base",
+				"eclips\\designs\\base.py"
+			],
+			[
+				"algorith_upper_left_ne",
+				"algorithm_upper_left_next_row.tex"
+			],
+			[
+				"algorith",
+				"algorithm_upper_left_next_column.tex"
+			],
+			[
+				"algo",
+				"algorithm_upper_left_1.tex"
+			],
+			[
+				".tex",
+				"quadrant_area.tex"
+			],
+			[
+				"sampl",
+				"sample.bib"
+			],
+			[
+				"osajn",
+				"osajnl.cls"
+			],
+			[
+				"quan",
+				"quadrant_area.tex"
+			],
+			[
+				"algorithm",
+				"algorithm_upper_left_1.tex"
+			],
+			[
+				"shade.tex",
+				"shaded-geometry.tex"
+			],
+			[
+				"disk",
+				"geoshade\\internal\\disk.py"
+			],
+			[
+				"fresne",
+				"poppy\\fresnel.py"
+			],
+			[
+				"four_",
+				"eclips\\models\\poppy\\four_plane_model_run.py"
+			],
+			[
+				"pilot",
+				"yapp\\internal\\pilot.py"
+			],
+			[
+				"mono",
+				"yapp\\internal\\handlers\\monopoints2s.py"
+			],
+			[
+				"surfa",
+				"yapp\\internal\\handlers\\surface_to_surface.py"
+			],
+			[
+				"exec",
+				"1_executivesummary.tex"
+			],
+			[
+				"krist",
+				"krist_end_to_end.bib"
+			],
+			[
+				"unit",
+				"unit-cell-effects.tex"
+			],
+			[
+				"basic",
+				"eclips\\models\\poppy\\basic.py"
+			],
+			[
+				"bas",
+				"eclips\\models\\designs\\base.py"
+			],
+			[
+				"prop_stw",
+				"proper\\prop_stw.py"
+			],
+			[
+				"thre",
+				"python\\three.py"
+			],
+			[
+				"master",
+				"python_port\\master.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 441.0,
+		"last_filter": "make_",
+		"selected_items":
+		[
+			[
+				"make_",
+				"make_fresnel_system"
+			],
+			[
+				"make_fresne",
+				"make_fresnel_system"
+			],
+			[
+				"make_f",
+				"make_fresnel_system"
+			],
+			[
+				"circ",
+				"CircularAperture"
+			],
+			[
+				"circular",
+				"CircularOcculter"
+			],
+			[
+				"free",
+				"FreeSpace"
+			]
+		],
+		"width": 562.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
